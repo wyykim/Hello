@@ -1,0 +1,13 @@
+{
+    "name": "wyykim/hello",
+    "description": "an example of composer package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wyykim",
+            "email": "wyykim@163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
